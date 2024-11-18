@@ -12,6 +12,10 @@ Step 6: Use folium map function to display the map location.<br>
 
 ## Program:
 ```
+Developed by: Paul Andrew D
+Register no: 212221230075
+```
+```
 import numpy as np
 import matplotlib.pyplot as plt
 x=np.array([1,2,3,4,5,6,7,8,9,10])
